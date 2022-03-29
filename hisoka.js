@@ -1,7 +1,7 @@
 /**
    * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Contact Me on wa.me/628967569692
+   * Follow https://github.com/rav
 */
 
 require('./config')
@@ -570,7 +570,7 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
 case 'tqtt': case 'tqto': case 'thanksto': {
                 anu = `
 ⭔ Ortu Saya.
-⭔ DikaArdnt (Author).
+⭔ Rav Pratama (Author).
 ⭔ Sanzy YT.
 ⭔ Fatih A.
 ⭔ Nurutomo.
@@ -872,16 +872,16 @@ var messa = await prepareWAMessageMedia({ image: fs.readFileSync('./lib/hisoka.j
                         "productId": "7091718154232528",
                         "title": `_*MENU *_`,
                         "description": '┏━━━━━━━━━━━━━━⬣\n┃        〔 SEWA BOT  〕\n┃ \n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃   ⬣ SEWA + PREM ⬣\n┃⬡ 1 MINGGU : 8K\n┃⬡ 1 BULAN : 18K\n┃⬡ PERMANEN : 25K\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃       〔 KELEBIHAN BOT 〕\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃⬡ ON 24 JAM\n┃⬡ RUN DI RDP\n┃⬡ ANTI DELAY \n┃⬡ ANTILINK\n┃⬡ WELCOME IMAGE\n┃⬡ LEFT\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃           ⬣〔  SISTEM 〕⬣\n┃⬡ TF - SEND BUKTI - BOT JOIN\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃    *PAYMENT* :\n┃ GOPAY\n┃ DANA\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n\n_Bukan Bot_ *_Wibusoft_*👍🏻',
-                        "footerText": `© Sazy YT`,
+                        "footerText": `© Rav Pratama`,
                         "currencyCode": "IDR",
                         "priceAmount1000": "100000000000000000",
                         "productImageCount": 1,
                         "firstImageId": 1,
                         "salePriceAmount1000": "1000",
-                        "retailerId": `Sanzy`,
-                        "url": "wa.me/6281276698054"
+                        "retailerId": `RavXD`,
+                        "url": "wa.me/628967569692"
                     },
-                    "businessOwnerJid": "6281276698054@s.whatsapp.net",
+                    "businessOwnerJid": "628967569692@s.whatsapp.net",
                 }
                 }), { userJid: m.chat, quoted: m })
                 hisoka.relayMessage(m.chat, catalog.message, { messageId: catalog.key.id })
